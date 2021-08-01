@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ManagementUI/1.0.0": {
+        "dependencies": {
+          "ManagementLogic": "1.0.0"
+        },
+        "runtime": {
+          "ManagementUI.dll": {}
+        }
+      },
+      "ManagementLogic/1.0.0": {
+        "runtime": {
+          "ManagementLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManagementUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagementLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

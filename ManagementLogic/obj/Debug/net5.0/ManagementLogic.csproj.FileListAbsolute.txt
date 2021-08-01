@@ -1,0 +1,12 @@
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\bin\Debug\net5.0\ManagementLogic.deps.json
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\bin\Debug\net5.0\ManagementLogic.dll
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\bin\Debug\net5.0\ref\ManagementLogic.dll
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\bin\Debug\net5.0\ManagementLogic.pdb
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\obj\Debug\net5.0\ManagementLogic.csproj.AssemblyReference.cache
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\obj\Debug\net5.0\ManagementLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\obj\Debug\net5.0\ManagementLogic.AssemblyInfoInputs.cache
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\obj\Debug\net5.0\ManagementLogic.AssemblyInfo.cs
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\obj\Debug\net5.0\ManagementLogic.csproj.CoreCompileInputs.cache
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\obj\Debug\net5.0\ManagementLogic.dll
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\obj\Debug\net5.0\ref\ManagementLogic.dll
+C:\Users\wanja\Desktop\PROJECTS\User_Management_System\ManagementLogic\obj\Debug\net5.0\ManagementLogic.pdb
